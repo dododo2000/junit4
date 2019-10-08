@@ -24,4 +24,5 @@
 * If a suite() returns a JUnit4TestAdapter, allow Filters and Sorters to operate on 
   the adapted Runner.
   
+  park test commit & push
 * Every time I add a Filter feature, I have to add an equivalent Sorter feature.  Suspicious.
